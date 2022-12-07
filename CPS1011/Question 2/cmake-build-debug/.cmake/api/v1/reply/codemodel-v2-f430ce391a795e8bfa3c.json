@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPS1011",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Question2_a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question2_a-Debug-7b31f42eb4eeaffecdb7.json",
+					"name" : "Question2_a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question2_b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question2_b-Debug-9bc243003217f15a4afa.json",
+					"name" : "Question2_b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question2_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question2_c-Debug-e56634f2b874c1f64e22.json",
+					"name" : "Question2_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list-Debug-a40463a7581a6f449513.json",
+					"name" : "list",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug",
+		"source" : "C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

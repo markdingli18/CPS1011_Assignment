@@ -1,0 +1,8 @@
+# ninja log v5
+13	546	6656904012745851	CMakeFiles/Question1_b.dir/init_array.c.obj	38597e8c44837dde
+40	555	6656904012780474	CMakeFiles/Question1_b.dir/frequency.c.obj	61de2978373f68fb
+2	552	6656904012715600	CMakeFiles/Question1_b.dir/display.c.obj	21266103c873457f
+66	558	6656904012780474	CMakeFiles/Question1_b.dir/reverse.c.obj	7269daa9e451a84f
+29	561	6656904012815716	CMakeFiles/Question1_b.dir/display_freq.c.obj	93bd5284b306425
+21	571	6656904013012213	CMakeFiles/Question1_b.dir/question1_b.c.obj	aa1bed4dde545c90
+572	1164	6656904017143638	Question1_b.exe	b7861fe2eeb4dbdd

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPS1011"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Question2_a">
+				<Option output="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Question2_a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Question2_a"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Question2_a/fast">
+				<Option output="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Question2_a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Question2_a/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Question2_b">
+				<Option output="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Question2_b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Question2_b"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Question2_b/fast">
+				<Option output="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Question2_b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Question2_b/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list">
+				<Option output="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/liblist.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 list"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list/fast">
+				<Option output="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/liblist.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 list/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Question2_c">
+				<Option output="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Question2_c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Question2_c"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Question2_c/fast">
+				<Option output="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Question2_c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Question2_c/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/deinitDT.c">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/exportDT.c">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/initDT.c">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/loadDT.c">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/mutateDT.c">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/projectDT.c">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/question2_a.c">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/question_2a_header.h">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2a/showDT.c">
+			<Option target="Question2_a"/>
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/deinitDT_b.c">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/exportDT_b.c">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/initDT_b.c">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/loadDT_b.c">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/mutateDT_b.c">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/projectDT_b.c">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/question2_b.c">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/question_2b_header.h">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2b/showDT_b.c">
+			<Option target="Question2_b"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/Question_2c/question2_c.c">
+			<Option target="Question2_c"/>
+		</Unit>
+		<Unit filename="C:/Users/markd/OneDrive/Documents/University/Programming Principles in C/Assignment/CPS1011/Question 2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
